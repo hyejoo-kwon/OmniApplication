@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
     private val recyclerView: RecyclerView? = null
-
+    private val jun = null
     //private PostAdapter mAdapter;
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
